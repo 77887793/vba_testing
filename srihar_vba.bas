@@ -5,5 +5,5 @@ End Function
 
 ' Procedure to run
 Sub RunThisProcedure()
-    MsgBox "The imported code is srihari!"
+    MsgBox "Hi"
 End Sub
